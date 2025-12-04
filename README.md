@@ -1,5 +1,7 @@
 ## Hi there 👋
-#• 	Who am I ? :
+
+
+• 	Who am I ? :
 I am a pre-final year computer science student !
 
 
@@ -13,6 +15,8 @@ Cloud (AWS), AI/ML fundamentals, full‑stack development.
 
 • 	📫 How to reach me:
  E-mail : manashaa@gmail.com 
+
+ 
  LinkedIn: www.linkedin.com/in/manashaaumapathy
  
 
