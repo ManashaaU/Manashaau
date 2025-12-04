@@ -1,7 +1,9 @@
-## Hi there 👋
+## 👋 Hey, I'm Manashaa
+
+💻 printf("Hello, World!")
 
 
-• 	Who am I ? :
+• 🧑‍💻Who am I ? :
 I am a pre-final year computer science student !
 
 
