@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Manashaa
 
-💻 printf("Hello, World!")
+💻 printf("Hello, World!");
 
 
 • 🧑‍💻Who am I ? :
@@ -12,7 +12,7 @@ Building end‑to‑end cloud‑based applications with automation, DevOps workf
 
 
 • 	🌱 I’m currently learning:
-Cloud (AWS), AI/ML fundamentals, full‑stack development.
+Cloud (AWS,Azure), AI/ML fundamentals, full‑stack development.
 
 
 • 	📫 How to reach me:
