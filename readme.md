@@ -3,20 +3,21 @@
 💻 printf("Hello, World!");
 
 
-• 🧑‍💻Who am I ? :
+ # Who am I ? 👩‍💻:
 I am a pre-final year computer science student !
 
 
-• 	🔭 I’m currently working on:
-Building end‑to‑end cloud‑based applications with automation, DevOps workflows, and scalable architectures.
+# I’m currently working on🔭 :
+Building end‑to‑end cloud‑based applications with automation,
+DevOps workflows, and scalable architectures.
 
 
-• 	🌱 I’m currently learning:
+# I’m currently learning	🌱 :
 Cloud (AWS,Azure), AI/ML fundamentals, full‑stack development.
 
 
-• 	📫 How to reach me:
- E-mail : manashaa@gmail.com 
+# How to reach me 📫  :
+  E-mail : manashaa@gmail.com 
 
  
  LinkedIn: www.linkedin.com/in/manashaaumapathy
