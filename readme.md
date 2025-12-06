@@ -21,6 +21,9 @@ Cloud (AWS,Azure), AI/ML fundamentals, full‑stack development.
 
  
  LinkedIn: www.linkedin.com/in/manashaaumapathy
+
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
  
 
 <!--
