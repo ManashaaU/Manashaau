@@ -4,7 +4,7 @@
 
 
  # Who am I ? 👩‍💻:
-I am a pre-final year computer science student !
+I am a pre-final year computer science student ! I love building interesting and scalable apps. I am open for collaborations and build new innovations .
 
 
 # I’m currently working on🔭 :
